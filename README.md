@@ -1,2 +1,2 @@
 # mean-authentication
-A simple authentication project using MEAN and JWT
+A simple authentication project using MEAN and JWT.
